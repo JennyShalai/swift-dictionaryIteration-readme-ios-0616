@@ -25,8 +25,6 @@ for (airportCode, airportName) in airports {
 }
 
 
-
-
 let toyStoryFilms = [
     "Toy Story",
     "Toy Story 2",
